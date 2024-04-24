@@ -12,23 +12,23 @@ function StreamIcons() {
           className="mx-[3px] h-8 w-8 sm:mx-0 sm:h-auto sm:w-auto"
         />
         <img
-          src="public/svg/deezer-svgrepo-com.svg"
+          src="/svg/deezer-svgrepo-com.svg"
           className="mx-[3px] h-8 w-8 sm:mx-0 sm:h-auto sm:w-auto"
         />
         <img
-          src="public/svg/shazam-svgrepo-com.svg"
+          src="/svg/shazam-svgrepo-com.svg"
           className="mx-[3px] h-8 w-8 sm:mx-0 sm:h-auto sm:w-auto"
         />
         <img
-          src="public/svg/tidal-svgrepo-com.svg"
+          src="/svg/tidal-svgrepo-com.svg"
           className="mx-[3px] h-8 w-8 sm:mx-0 sm:h-auto sm:w-auto"
         />
         <img
-          src="public/svg/tiktok-icon-white-1-logo-svgrepo-com.svg"
+          src="/svg/tiktok-icon-white-1-logo-svgrepo-com.svg"
           className="mx-[3px] h-8 w-8 sm:mx-0 sm:h-auto sm:w-auto"
         />
         <img
-          src="public/svg/youtube-music-svgrepo-com.svg"
+          src="/svg/youtube-music-svgrepo-com.svg"
           className="mx-[3px] h-8 w-8 sm:mx-0 sm:h-auto sm:w-auto"
         />
         <img

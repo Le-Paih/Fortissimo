@@ -30,7 +30,7 @@ function OutroFr() {
 
   const exampleVariant = {
     visible: { opacity: 1, y: 0, transition: { duration: 1 } },
-    hidden: { opacity: 0, y: 25 },
+    hidden: { opacity: 0, y: 75 },
   };
 
   return (
@@ -38,10 +38,10 @@ function OutroFr() {
       <div className="flex flex-col px-10 text-center md:px-32 md:text-left">
         {/* Experts de L'industrie */}
         <div className="mt-10 flex flex-col md:flex-row">
-          <div className="flex flex-1 ">
+          <div className="flex flex-1">
             <motion.img
               src="/svg/speaker-svgrepo-com.svg"
-              className="mx-auto h-56 w-56 md:h-72 md:w-72"
+              className="mx-auto h-56 w-56  md:h-72 md:w-72"
               variants={exampleVariant}
               initial="hidden"
               animate={control}

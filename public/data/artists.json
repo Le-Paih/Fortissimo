@@ -1,0 +1,26 @@
+[
+    {
+        "name": "SDM",
+        "img": "/Artists/SDM.jpg"
+    },
+    {
+        "name": "Ninho",
+        "img": "/Artists/Ninho.jpg"
+    },
+    {
+        "name": "Tiakola",
+        "img": "/Artists/Tiakola.jpg"
+    },
+    {
+        "name": "Franglish",
+        "img": "/Artists/Franglish.jpg"
+    },
+    {
+        "name": "J Hus",
+        "img": "/Artists/JHus.jpg"
+    },
+    {
+        "name": "Dave",
+        "img": "/Artists/Dave.jpg"
+    }
+]
